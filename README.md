@@ -7,7 +7,7 @@ This is a project done to fulfil the requirements of Programming for Data Scince
 
 
 ### Description
-In this project, R was used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
+In this project, R was used to explore data related to bike share systems for three major cities in the United States which are Chicago, New York City, and Washington. 
 This project was done using https://www.udacity.com/ classroom workspace provided as part of the course to make fulfilling the requirements easy.
 The workspace also allow plotting of graphs using ggplot.
 
